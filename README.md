@@ -6,7 +6,7 @@ My name's Sean Lehey, and I'm an undergraduate student at SUNY Albany interested
 
 - [ ] An Introduction to Network Topology with Packet Tracer
 - [ ] Cisco IOS CLI Commands and Configuration
-- [ ] Understanding and Applying the OSI Model
+- [X] [Understanding and Applying the OSI Model](https://github.com/SeanLehey/CCNA-200-301-Review/blob/main/Understanding%20and%20Applying%20the%20OSI%20Model.md)
 
 ### Related Networking Projects
 
