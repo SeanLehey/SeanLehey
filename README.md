@@ -1,6 +1,6 @@
 # Welcome to my personal portfolio!
 
-This is where I upload projects I find interesting that I do in my spare time. They mostly revolve around networking and satellites. This is a new initiative as of 2025, so there's not much to show yet. Completed and planned projects are shown below. Enjoy!
+This is where I upload projects that I do in my spare time. They mostly revolve around networking and satellites. This is a new initiative as of 2025, so there's not much to show yet. Completed and planned projects are shown below. Enjoy!
 
 ## My Projects
 
