@@ -5,7 +5,7 @@ This is where I upload projects that I do in my spare time. They mostly revolve 
 ## My Projects
 
 ### Networking
-* [x] Locating Rogue SSIDs with Kismet
+* [x] [Locating Rogue SSIDs with Kismet](https://github.com/SeanLehey/Locating-Rogue-SSIDs-with-Kismet)
 
 ### Satellites
 * [ ] Building a Quadrifilar Helix Antenna for Satellite Telemetry
