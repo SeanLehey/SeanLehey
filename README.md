@@ -8,5 +8,5 @@ This is where I upload projects that I do in my spare time. They mostly revolve 
 * [x] [Locating Rogue SSIDs with Kismet](https://github.com/SeanLehey/Locating-Rogue-SSIDs-with-Kismet)
 
 ### Satellites
-* [ ] Building a Quadrifilar Helix Antenna for Satellite Telemetry
-* [ ] Downloading and Processing Live Weather Satellite Data with GQRX and SatDump
+* [ ] Processing Live Satellite Telemetry with GQRX and SatDump
+* [ ] Building a Quadrifilar Helix Antenna
