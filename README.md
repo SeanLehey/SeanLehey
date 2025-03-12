@@ -9,4 +9,4 @@ This is where I upload projects that I do in my spare time. They mostly revolve 
 
 ### Satellites
 * [ ] Building a Quadrifilar Helix Antenna for Satellite Telemetry
-* [ ] Grabbing Weather Images from Satellites with GQRX and SatDump
+* [ ] Downloading and Processing Live Weather Satellite Data with GQRX and SatDump
