@@ -2,8 +2,6 @@
 
 This is where I upload projects that I do in my spare time. They mostly revolve around networking and satellites.
 
-## My Projects
-
 ### Networking
 * [x] [Locating Rogue SSIDs with Kismet](https://github.com/SeanLehey/Locating-Rogue-SSIDs-with-Kismet) | An introduction to a handy signals intelligence tool.
 * [ ] An Introduction to Drone Basics | Construction, Configuration, and Networking for Hobbyists. Coming soon.
