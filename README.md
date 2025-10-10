@@ -1,12 +1,14 @@
 # Welcome to my personal portfolio
 
-This is where I upload projects that I do in my spare time. They mostly revolve around networking and satellites. This is a new initiative as of 2025, so there's not much to show yet. Completed and planned projects are shown below. Enjoy!
+This is where I upload projects that I do in my spare time. They mostly revolve around networking and satellites.
 
 ## My Projects
 
 ### Networking
-* [x] [Locating Rogue SSIDs with Kismet](https://github.com/SeanLehey/Locating-Rogue-SSIDs-with-Kismet)
+* [x] [Locating Rogue SSIDs with Kismet](https://github.com/SeanLehey/Locating-Rogue-SSIDs-with-Kismet) | An introduction to a handy signals intelligence tool.
 
 ### Satellites
-* [x] [Tracking Satellites and Processing Real-Time Telemetry Transmissions](https://github.com/SeanLehey/Tracking-Satellites-and-Processing-Real-Time-Telemetry-Transmissions)
-* [ ] Building a Quadrifilar Helix Antenna
+* [x] [Tracking Satellites and Processing Real-Time Telemetry Transmissions](https://github.com/SeanLehey/Tracking-Satellites-and-Processing-Real-Time-Telemetry-Transmissions) | Getting weather images the fun way.
+
+### Other
+* [ ] On LLMs | My thoughts on the technology, its limited upsides, and its many downsides. Coming soon.
