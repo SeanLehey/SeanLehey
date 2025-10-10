@@ -1,4 +1,4 @@
-# Welcome to my personal portfolio
+# Welcome to my personal portfolio.
 
 This is where I upload projects that I do in my spare time. They mostly revolve around networking and satellites.
 
