@@ -1,5 +1,5 @@
 > [!NOTE]
-> All writing is done by me. I do not use LLMs to do my writing for me. See my [AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement) for more details.
+> All of the writing in my GitHub projects is produced and typed by hand. See my [AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement) for more details.
 
 # Welcome to my personal portfolio.
 
