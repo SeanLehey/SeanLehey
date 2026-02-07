@@ -4,8 +4,8 @@
 # Welcome to Sean Lehey's technical portfolio.
 
 I'm a senior information security analyst interested in networking, AI/ML, and other topics. This is where I upload projects that I work on in my spare time. 
-<br><br>✅ = Completed Project
-<br>🟡 = Coming Soon
+<br><br>✅ = Completed
+<br>🟡 = In Progress
 
 ## AI/ML
 ✅ **[Personal AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement)** | My philosophy and approach to AI tools
