@@ -8,7 +8,7 @@ I'm a senior information security analyst interested in networking, AI/ML, and o
 <br>🟡 = Coming Soon
 
 ## AI/ML
-✅ **[Personal AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement)** | My personal philosophy and approach to AI tools
+✅ **[Personal AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement)** | My philosophy and approach to AI tools
 <br>🟡 **Configuring a Local LLM and Connecting it to a Retrieval-Augmented Generation (RAG) Database** | Creating my GDScript coding companion
 
 ## Networking
