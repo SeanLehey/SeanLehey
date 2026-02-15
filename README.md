@@ -1,7 +1,7 @@
 > [!NOTE]
 > All of the writing in my GitHub projects is produced and typed by hand. See my [AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement) for more details.
 
-# Welcome to Sean Lehey's technical portfolio.
+## Welcome to Sean Lehey's technical portfolio.
 
 I'm a senior information security analyst interested in networking, AI/ML, and other topics. This is where I upload projects that I work on in my spare time. 
 <br><br>✅ = Complete
