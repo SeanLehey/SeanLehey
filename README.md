@@ -17,5 +17,4 @@ I'm a senior information security analyst interested in networking, AI/ML, and o
 
 ### Programming
 🟡 **Godot Action RPG Development Log** | Documenting my experience learning GDScript
-<br>🟡 **Cercules** | The source code for my top-down action RPG made with Godot
 
