@@ -1,5 +1,5 @@
 > [!NOTE]
-> All of the writing in my GitHub projects is produced and typed by hand. See my [AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement) for more details.
+> All of the writing in my GitHub projects is thought of and typed by me. I use LLMs to assist with learning programming and other tasks. See my [AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement) for more details.
 
 ## Welcome to Sean Lehey's technical portfolio.
 
