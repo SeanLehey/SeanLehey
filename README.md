@@ -13,7 +13,7 @@ I'm a senior information security analyst interested in networking, AI/ML, and o
 
 ### Networking
 ✅ **[Locating Rogue SSIDs with Kismet](https://github.com/SeanLehey/Locating-Rogue-SSIDs-with-Kismet)** | An introduction to a handy signals intelligence tool
-<br>✅ **[Processing Real-Time Weather Satellite Transmissions](https://github.com/SeanLehey/Tracking-Satellites-and-Processing-Real-Time-Telemetry-Transmissions)** | Getting weather images the fun way
+<br>✅ **[Processing Real-Time Satellite Transmissions](https://github.com/SeanLehey/Tracking-Satellites-and-Processing-Real-Time-Telemetry-Transmissions)** | Getting weather images the fun way
 
 ### Programming
 🟡 **Godot Action RPG Development Log** | Documenting my experience learning GDScript
