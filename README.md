@@ -9,7 +9,7 @@ I'm a senior information security analyst interested in networking, AI/ML, and o
 
 ### AI/ML
 ✅ **[Personal AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement)** | My philosophy and approach to AI tools
-<br>🟡 **[Deploying a RAG-Enhanced Local LLM](https://github.com/SeanLehey/Deploying-a-RAG-Enhanced-Local-LLM)** | Creating my GDScript coding companion
+<br>✅ **[Deploying a RAG-Enhanced Local LLM](https://github.com/SeanLehey/Deploying-a-RAG-Enhanced-Local-LLM)** | Creating my GDScript coding companion
 
 ### Networking
 ✅ **[Locating Rogue SSIDs with Kismet](https://github.com/SeanLehey/Locating-Rogue-SSIDs-with-Kismet)** | An introduction to a handy signals intelligence tool
