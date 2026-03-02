@@ -1,5 +1,5 @@
 > [!NOTE]
-> All of my projects are planned, written, and edited by me. I use LLMs to assist with learning programming and other tasks. See my [AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement) for more details.
+> All of my projects are planned, written, and edited by me. I use LLMs to assist with programming and other tasks. See my [AI Ethics Statement](https://github.com/SeanLehey/Personal-AI-Ethics-Statement) for more details.
 
 ## Welcome to Sean Lehey's technical portfolio.
 
